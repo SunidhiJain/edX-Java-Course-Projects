@@ -1,3 +1,10 @@
+/**
+ *  Microsoft: DEV277x - Object Oriented Programming in Java
+ *  Module 2 Project - Fraction Calculator
+ *
+ *  Created by Megha Verma
+ *  (I took some help from the fellow students doing the same course)
+**/
 public class Fraction {
 
     private int numerator;
