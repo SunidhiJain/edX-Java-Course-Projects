@@ -1,3 +1,11 @@
+/**
+ *  Microsoft: DEV277x - Object Oriented Programming in Java
+ *  Module 2 Project - Fraction Calculator
+ *
+ *  Created by Megha Verma
+ *  (I took some help from the fellow students doing the same course)
+**/
+
 import java.util.Arrays;
 import java.util.Scanner;
 
